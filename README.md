@@ -1,2 +1,2 @@
 # gdlevelrequest.github.io
-i only have this so it can appear on discord connections
+i use this for practicing my coding skills
